@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\obj\Debug\netcoreapp3.1\Mywork3.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\obj\Debug\netcoreapp3.1\Mywork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\obj\Debug\netcoreapp3.1\Mywork3.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\obj\Debug\netcoreapp3.1\Mywork3.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\obj\Debug\netcoreapp3.1\Mywork3.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\bin\Debug\netcoreapp3.1\Mywork3.exe
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\bin\Debug\netcoreapp3.1\Mywork3.deps.json
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\bin\Debug\netcoreapp3.1\Mywork3.runtimeconfig.json
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\bin\Debug\netcoreapp3.1\Mywork3.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\bin\Debug\netcoreapp3.1\Mywork3.dll
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\bin\Debug\netcoreapp3.1\Mywork3.pdb
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\obj\Debug\netcoreapp3.1\Mywork3.dll
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\obj\Debug\netcoreapp3.1\Mywork3.pdb
+C:\Users\BAKU\source\repos\Mywork3\Mywork3\obj\Debug\netcoreapp3.1\Mywork3.genruntimeconfig.cache
